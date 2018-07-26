@@ -1,0 +1,33 @@
+.main{
+  border: 2px solid blue;
+  padding: 2%;
+}
+.left{
+   border:2px solid green;
+   padding: 2%;
+   margin: 2%;
+   width: 30%;
+
+ }
+ #name{
+   color: purple;
+   font-size: 30px;
+   text-align: center;
+ }
+ h4,h2,a{
+   text-align: center;
+ }
+ .left img{
+   width:50%;
+   border-radius: 50%;
+   border: 2px solid blue;
+   display:block;
+   margin-left:auto;
+   margin-right:auto;
+ }
+ .right{
+   border:2px solid red;
+   padding: 2%;
+   margin: 2%;
+   width: 70%;
+ }
