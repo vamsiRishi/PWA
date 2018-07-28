@@ -1,0 +1,55 @@
+{"details":{
+"image":"profile.jpg",
+"name":"Vamsi",
+"phonenumber":"+91-2225556666",
+"email":"vangurivamsi1998gmail.com",
+"Address":"mic college of Technology,kanchikacherala"
+},
+"carrer":{
+  "info":"To persue a challenging carrer in some reputed organisation"
+},
+"education":[
+  {
+  "qualification":"B.Tech",
+  "institute":"Mic college",
+  "year":"2016-2020",
+  "percentage":"90%"
+},
+{
+  "qualification":"intermediate",
+  "institute":"JRC college",
+  "year":"2014-2016",
+  "percentage":"98%"
+},
+{
+  "qualification":"SSC",
+  "institute":"KPS school",
+  "year":"2014",
+  "percentage":"95%"
+}
+],
+"skills":[{
+  "title":"programming Language",
+  "info":["c,c++,java,python"]
+},
+{
+  "title":"Databases",
+  "info":["oracle,sql,mysql"]
+},
+{
+  "title":"Operating Systems",
+  "info":["windows,Linux,ubuntu,Dos"]
+}
+],
+"Achievements":[
+  {
+    "title":"prizes",
+    "info":"won 1st prize in cambridge unversity"
+
+  },
+  {
+    "title":"Events",
+    "info":"participated various Techincal Events "
+  }
+]
+}
